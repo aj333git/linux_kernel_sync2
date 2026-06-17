@@ -1,0 +1,2 @@
+/home/oem/linux_kernel_sync2/critical_section.o
+
