@@ -31,6 +31,20 @@ git_insta02*
 modules.order
 Module.symvers
 
+# Kernel build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+
+Module.symvers
+modules.order
+
+# Notes
+theory
+upgrade
+github_insta_02
 # Temporary files
 *.tmp
 *.cmd
