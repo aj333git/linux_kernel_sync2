@@ -1,1 +1,0 @@
-cmd_/home/oem/linux_kernel_sync2/critical_section.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/oem/linux_kernel_sync2/critical_section.ko /home/oem/linux_kernel_sync2/critical_section.o /home/oem/linux_kernel_sync2/critical_section.mod.o;  true
