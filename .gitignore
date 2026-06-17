@@ -5,6 +5,28 @@
 *.mod.c
 *.mod.o
 
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.cmd
+
+Module.symvers
+modules.order
+
+# Images
+*.png
+
+# Theory documents
+theory*
+*.txt
+
+# Specific files
+git_insta02*
+
 # Kernel build system files
 modules.order
 Module.symvers
